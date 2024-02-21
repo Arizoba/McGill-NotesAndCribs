@@ -1,2 +1,3 @@
 https://sarvasvarora.me/misc/course-notes/
 https://github.com/AllanWang/McGill-Public
+https://github.com/eli0009/COMP303
